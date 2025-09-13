@@ -1,0 +1,14 @@
+Here are all the packages you need to install in your new environment:
+
+streamlit
+pandas
+numpy
+plotly
+folium
+streamlit-folium
+scikit-learn
+openpyxl
+openai
+
+Install them using pip:
+pip install streamlit pandas numpy plotly folium streamlit-folium scikit-learn openpyxl openai
