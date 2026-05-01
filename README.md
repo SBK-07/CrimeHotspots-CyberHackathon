@@ -214,16 +214,11 @@ CrimeHotspots-CyberHackathon/
 
 ## 🔮 Future Enhancements / Roadmap
 
-| Priority | Enhancement |
-|---|---|
-| 🔴 High | Real-time data ingestion via police department APIs or citizen-reporting webhooks |
-| 🔴 High | User authentication & role-based access control (admin vs. analyst vs. citizen) |
-| 🟡 Medium | Deep learning model (LSTM/Transformer) for temporal crime sequence forecasting |
-| 🟡 Medium | Multi-city/multi-district dataset support with dynamic geographic switching |
-| 🟡 Medium | Automated PDF/Excel report export from the AI Insights module |
-| 🟢 Low | Mobile-responsive Progressive Web App (PWA) wrapper |
-| 🟢 Low | Integration with national crime statistics APIs (NCRB India / UCR US) |
-| 🟢 Low | Containerization via Docker + CI/CD pipeline (GitHub Actions) |
+| Enhancement |
+|---|
+| Mobile-responsive Progressive Web App (PWA) wrapper |
+| Integration with national crime statistics APIs (NCRB India / UCR US) |
+| Containerization via Docker + CI/CD pipeline (GitHub Actions) |
 
 ---
 
